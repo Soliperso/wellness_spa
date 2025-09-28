@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-spa-cream: #F7F3E9;
+  --color-spa-sage: #9CAF88;
+  --color-spa-lavender: #E6E6FA;
+  --color-spa-rose: #F4C2C2;
+  --color-spa-mint: #B8E6B8;
+  --color-spa-sand: #F5E6D3;
+  --color-spa-stone: #A0A0A0;
+  --color-spa-earth: #8B7355;
+  
+  --font-family-serif: 'Playfair Display', serif;
+  --font-family-sans: 'Inter', sans-serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-spa-cream);
+  color: #333;
+}

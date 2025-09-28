@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Swedish Massage",
+    "description": "A gentle, relaxing massage using long strokes and kneading to release tension and improve circulation.",
+    "duration": "60 minutes",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Stress relief", "Improved circulation", "Muscle relaxation"]
+  },
+  {
+    "id": 2,
+    "name": "Deep Tissue Massage",
+    "description": "Intensive massage targeting deeper muscle layers to address chronic pain and muscle tension.",
+    "duration": "90 minutes",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Pain relief", "Improved mobility", "Reduced inflammation"]
+  },
+  {
+    "id": 3,
+    "name": "Hot Stone Therapy",
+    "description": "Heated volcanic stones placed on key points of the body to melt away tension and stress.",
+    "duration": "75 minutes",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1591019479261-1a103585c559?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Deep relaxation", "Improved circulation", "Stress reduction"]
+  },
+  {
+    "id": 4,
+    "name": "Aromatherapy Massage",
+    "description": "Therapeutic massage combined with essential oils to enhance relaxation and well-being.",
+    "duration": "60 minutes",
+    "price": 135,
+    "image": "https://images.unsplash.com/photo-1596178065887-1198b6148b2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Emotional balance", "Stress relief", "Enhanced mood"]
+  },
+  {
+    "id": 5,
+    "name": "Prenatal Massage",
+    "description": "Specialized massage designed for expecting mothers to relieve pregnancy-related discomfort.",
+    "duration": "60 minutes",
+    "price": 140,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Reduced swelling", "Improved sleep", "Pain relief"]
+  },
+  {
+    "id": 6,
+    "name": "Couples Massage",
+    "description": "Relaxing massage experience for two people in the same room with synchronized treatments.",
+    "duration": "60 minutes",
+    "price": 240,
+    "image": "https://images.unsplash.com/photo-1559692048-79a3f837883d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "benefits": ["Shared relaxation", "Bonding experience", "Stress relief"]
+  }
+]
